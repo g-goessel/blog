@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Geekeries]]></title>
   <link href="http://g-goessel.github.io/blog/atom.xml" rel="self"/>
   <link href="http://g-goessel.github.io/blog/"/>
-  <updated>2014-08-28T17:27:41+02:00</updated>
+  <updated>2014-08-28T17:49:32+02:00</updated>
   <id>http://g-goessel.github.io/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Guillaume GOESSEL]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Presentation]]></title>
+    <link href="http://g-goessel.github.io/blog/blog/2014/08/28/presentation/"/>
+    <updated>2014-08-28T17:36:48+02:00</updated>
+    <id>http://g-goessel.github.io/blog/blog/2014/08/28/presentation</id>
+    <content type="html"><![CDATA[<p>Bonjour a tous !!!</p>
+
+<p>Ceci est mon premier post sur ce blog.</p>
+
+<!-- more -->
+
+
+<p>Tada !</p>
+]]></content>
+  </entry>
   
 </feed>
